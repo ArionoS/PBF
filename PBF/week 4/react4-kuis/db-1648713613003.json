@@ -1,0 +1,39 @@
+{
+  "mahasiswa": [
+    {
+      "id": 1,
+      "nama": "Ariono Septian Jaya",
+      "hp": "087712523326",
+      "angkatan": "2019",
+      "status": "Aktif",
+      "alamat": "Malang",
+      "NIM": "1941720092"
+    },
+    {
+      "id": 2,
+      "nama": "Rajendra Rakha Arya Prabeswara",
+      "hp": "087897553729",
+      "angkatan": "2019",
+      "status": "Aktif",
+      "alamat": "Malang",
+      "NIM": "1941720180"
+    },
+    {
+      "id": 3,
+      "nama": "Meuti Zari Annisa",
+      "hp": "0834456709812",
+      "angkatan": "2019",
+      "status": "Aktif",
+      "alamat": "Singosari",
+      "NIM": "1941720083"
+    },
+    {
+      "id": "4",
+      "nama": "Safira Febriyanti Subeki Putri",
+      "hp": "0898753476712",
+      "angkatan": "2019",
+      "status": "Aktif",
+      "alamat": "Singosari"
+    }
+  ]
+}
